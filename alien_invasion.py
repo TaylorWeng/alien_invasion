@@ -263,3 +263,4 @@ if __name__ == '__main__':
     ai.run_game()
     # Taylor test for the git track by Jul 3th, 2022
     # Taylor updated from github online by Jul 3th, 2022
+    # ssh test for the Taylor-Zbook-G5 - 21:16pm Jul 3rd 2022
