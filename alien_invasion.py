@@ -262,3 +262,4 @@ if __name__ == '__main__':
     ai = AlienInvasion()
     ai.run_game()
     # Taylor test for the git track by Jul 3th, 2022
+    # Taylor updated from github online by Jul 3th, 2022
